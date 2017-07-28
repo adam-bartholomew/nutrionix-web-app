@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Small description for nutrionix-web-app goes here",
   "license": "MIT",
-  "author": "",
+  "author": "Adam Bartholomew",
   "directories": {
     "doc": "doc",
     "test": "tests"
