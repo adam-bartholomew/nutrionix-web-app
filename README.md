@@ -1,7 +1,9 @@
 # nutrionix-web-app
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project is for learning and staying sharp using EmberJS and public APIs for web applications.
+
+
+# Default Ember README
 
 ## Prerequisites
 
