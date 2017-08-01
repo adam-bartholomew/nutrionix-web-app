@@ -1,10 +1,12 @@
 import Ember from 'ember';
 
 export default Ember.Controller.extend({
-    //String item = this.get("searchItem");
+    searchItem: null,
     actions: {
         search() {
             console.log("searching");
+            item = this.get(searchItem);
+            console.log(item);
         }
     }
 });
